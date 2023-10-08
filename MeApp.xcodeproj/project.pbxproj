@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0156B3172AD2A52200F7A69B /* NadaAlhabdan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0156B3162AD2A52200F7A69B /* NadaAlhabdan.swift */; };
 		184F20CF2AD28BA8009142C2 /* MeAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184F20CE2AD28BA8009142C2 /* MeAppApp.swift */; };
 		184F20D12AD28BA8009142C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184F20D02AD28BA8009142C2 /* ContentView.swift */; };
 		184F20D32AD28BA9009142C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184F20D22AD28BA9009142C2 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0156B3162AD2A52200F7A69B /* NadaAlhabdan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadaAlhabdan.swift; sourceTree = "<group>"; };
 		184F20CB2AD28BA8009142C2 /* MeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		184F20CE2AD28BA8009142C2 /* MeAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeAppApp.swift; sourceTree = "<group>"; };
 		184F20D02AD28BA8009142C2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 		184F20D42AD28BA9009142C2 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				0156B3162AD2A52200F7A69B /* NadaAlhabdan.swift */,
 				184F20D52AD28BA9009142C2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0156B3172AD2A52200F7A69B /* NadaAlhabdan.swift in Sources */,
 				184F20D12AD28BA8009142C2 /* ContentView.swift in Sources */,
 				184F20CF2AD28BA8009142C2 /* MeAppApp.swift in Sources */,
 			);
